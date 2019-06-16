@@ -1,5 +1,22 @@
 [
-
+    {
+    "english": "last in first out",
+    "croatian": "posljednji ulaz - prvi izlaz",
+    "note": "",
+    "source": "[NN](https://narodne-novine.nn.hr/clanci/sluzbeni/1995_07_47_985.html)"
+  },
+  {
+    "english": "first in first out",
+    "croatian": "prvi ulaz – prvi izlaz",
+    "note": "",
+    "source": "[NN](https://narodne-novine.nn.hr/clanci/sluzbeni/dodatni/404789.pdf)"
+  },
+{
+    "english": "stack",
+    "croatian": "stog",
+    "note": "*prvi ulaz - prvi izlaz*",
+    "source": "[GNU](http://www.gnu.org/server/standards/translations/hr/)"
+  },
   {
     "english": "access control list",
     "croatian": "lista prava pristupa, lista s pravima pristupa",
